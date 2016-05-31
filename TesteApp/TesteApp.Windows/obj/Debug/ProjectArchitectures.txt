@@ -1,0 +1,2 @@
+C:\Users\hermivaldo\Documents\Visual Studio 2015\Projects\TesteApp\TesteApp\TesteApp.Windows\TesteApp.Windows.csproj;neutral
+C:\Users\hermivaldo\Documents\Visual Studio 2015\Projects\TesteApp\TesteApp\TesteApp\TesteApp.csproj;neutral
